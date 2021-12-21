@@ -2194,7 +2194,7 @@ template {
 }
 @media (max-width: 767px) {
   body {
-    padding-top: 100px;
+    padding-top: 92px;
   }
   .arrow-up {
     bottom: 0;
@@ -2337,7 +2337,7 @@ template {
   }
   .book__container {
     margin-bottom: 31px;
-    margin-top: 7px;
+    margin-top: 1px;
   }
 }
 @media (max-width: 576px) {
@@ -2430,10 +2430,16 @@ template {
   }
   .navbar__wrapper {
     width: 100%;
-    padding: 26px 24px 20px 0px;
+    padding: 16px 15px 20px 8px;
   }
   .book__info {
     padding: 0 10px;
+  }
+  .slide-theme--science {
+    margin-top: 2px;
+  }
+  .slide-theme--child {
+    margin-top: 2px;
   }
 }
 @media (max-width: 1200px) {
